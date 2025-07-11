@@ -1,7 +1,7 @@
 [project]
-name = "ml_2025"
+name = "eng_dados_2025"
 version = "0.1.0"
-description = "Estudos fundamentos com téocalvo"
+description = "Estudos de Reforço end dados"
 authors = [
     {name = "David",email = "davi.hg123@gmail.com"}
 ]
