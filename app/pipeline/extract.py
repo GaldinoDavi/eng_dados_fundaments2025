@@ -10,6 +10,7 @@ args: input_path (str): caminho da pasta com os arquivos
 return: lista de dataframes
 
 """
+path = "data/input"
 
 def extract_from_excel (path: str) -> List [pd.DataFrame]:
     all_files = glob.glob(os.path.join(path, '*.xlsx'))

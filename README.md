@@ -32,12 +32,17 @@ Estruturação Básica do Projeto
 		
 ## Estruturar o projeto em 4 pastas básicas
 app
+	Aqui onde fica o código do projeto
 
 Tests
+	Pasta para testes unitários
 
 Docs
+	Documentação do Projeto
 
 Data
+	Dados onde os arquivos ficam
+
 	
 Referência git	
 https://blog.geekhunter.com.br/o-que-e-commit-e-como-usar-commits-semanticos/	
