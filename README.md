@@ -1,5 +1,11 @@
 # Eng_Dados_Fundamentos 2025
 
+Esse é um repositório básico. Ele recebe vários arquivos ".xlsx" e agrega em um único arquivo.
+
+Ele faz parte uma série de estudos a serem seguidas para fortalecer alguns fundamentos de engenharia e ciência de dados.
+
+Esse primeiro repositório a parte mais importante é o passo a passo de como estruturar um projeto de dados.
+
 # Iniciando um Novo Projeto de Dados do Zero
 
 Sempre foque em trabalhar com o terminal. Independente do sistema operacional, a linguaguem no terminal se mantém. E como as maioria dos programas são Linux, ao trabalhar com windows utilizar o bash para padronizar a linguagem.
@@ -34,16 +40,26 @@ Estruturação Básica do Projeto
 app
 	Aqui onde fica o código do projeto
 
-Tests
+tests
 	Pasta para testes unitários
 
-Docs
-	Documentação do Projeto
+docs
+	**Algumas das bibliotecas para documentação e organização.**
+	Mkdocs
+	black
+	blue
+	isort
+	docstring
+	pydocstyle
+	pip-audit
+	taskpy
 
-Data
+data
 	Dados onde os arquivos ficam
 
 	
 Referência git	
 https://blog.geekhunter.com.br/o-que-e-commit-e-como-usar-commits-semanticos/	
+
+Guia seguido material da jornada de dados.
 	
